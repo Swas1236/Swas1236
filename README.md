@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Swas1236
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-💻 Swastika Mondal
+🎓 CSE 3rd Year Student
+🏫 Abacus Institute of Engineering and Management (MAKAUT)
+🚀 Aspiring Software Engineer | Frontend Developer
+🤖 Currently exploring AI & Machine Learning
+🌟 About Me
+💻 I am a Computer Science & Engineering student (3rd year)
+🌱 Currently learning Data Structures, Web Development, and AI/ML
+🎯 Goal: Become a Software Engineer
+⚡ Interested in Frontend Development and Intelligent Systems
+🛠 Skills
+Programming Languages
+C
+Java
+Python
+JavaScript
+Web Development
+HTML
+CSS
+JavaScript
+Technologies
 
-<!---
-Swas1236/Swas1236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub
+MySQL
+📚 Currently Learning
+Data Structures & Algorithms
+Machine Learning
